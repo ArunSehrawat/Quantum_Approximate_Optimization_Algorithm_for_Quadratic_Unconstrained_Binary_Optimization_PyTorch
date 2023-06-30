@@ -18,6 +18,6 @@ __Solution__
 
 [1] [E. Farhi, J. Goldstone, and S. Gutmann, A Quantum Approximate Optimization Algorithm](https://doi.org/10.48550/arXiv.1411.4028)
 
-[2] [Lucas A (2014) Ising formulations of many NP problems. Front. Physics 2:5.](doi: 10.3389/fphy.2014.00005 https://doi.org/10.3389/fphy.2014.00005)
+[2] [Lucas A (2014) Ising formulations of many NP problems. Front. Physics 2:5.](https://doi.org/10.3389/fphy.2014.00005)
 
 [3] [Marcello Benedetti et al 2019 Quantum Sci. Technol. 4 043001](https://iopscience.iop.org/article/10.1088/2058-9565/ab4eb5)

@@ -3,13 +3,16 @@
 In the attached Jupyter notebook, I have presented the Quantum Approximate Optimization Algorithm (QAOA) [1] for a Quadratic Unconstrained Binary Optimization (QUBO) problem. A QUBO belongs to the NP-hard class, and it is equivalent to find the minimum energy (ground) state of a spin (Ising) Hamiltonian [2]. Here, the implementation of QAOA is done using PyTorch.
 
 __Problem instance__ 
+
 ![problem_qaoa](https://github.com/ArunSehrawat/Quantum_Approximate_Optimization_Algorithm_for_Quadratic_Unconstrained_Binary_Optimization_PyTorch/assets/99533657/6f879a19-de03-466c-a870-43776e34f092)
 
 __Algorithm: QAOA__ 
+
 ![QAOA](https://github.com/ArunSehrawat/Quantum_Approximate_Optimization_Algorithm_for_Quadratic_Unconstrained_Binary_Optimization_PyTorch/assets/99533657/778e1c61-d16f-420a-918a-bc8ad668920d)
 
 
 __Solution__ 
+
 ![sol_qaoa](https://github.com/ArunSehrawat/Quantum_Approximate_Optimization_Algorithm_for_Quadratic_Unconstrained_Binary_Optimization_PyTorch/assets/99533657/dd2f088d-6458-4d76-a822-9cee5c10b77c)
 
 

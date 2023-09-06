@@ -4,7 +4,8 @@ In the attached Jupyter notebook, I have presented the Quantum Approximate Optim
 
 __Problem instance__ 
 
-![problem_qaoa](https://github.com/ArunSehrawat/Quantum_Approximate_Optimization_Algorithm_for_Quadratic_Unconstrained_Binary_Optimization_PyTorch/assets/99533657/6f879a19-de03-466c-a870-43776e34f092)
+![prob_qaoa](https://github.com/ArunSehrawat/Quantum_Approximate_Optimization_Algorithm_for_Quadratic_Unconstrained_Binary_Optimization_PyTorch/assets/99533657/8a52a15a-6a8e-4f87-bf20-39419e6bb5e6)
+
 
 __Algorithm: QAOA__ 
 
@@ -13,7 +14,10 @@ __Algorithm: QAOA__
 
 __Solution__ 
 
-![sol_qaoa](https://github.com/ArunSehrawat/Quantum_Approximate_Optimization_Algorithm_for_Quadratic_Unconstrained_Binary_Optimization_PyTorch/assets/99533657/dd2f088d-6458-4d76-a822-9cee5c10b77c)
+![sol_qaoa](https://github.com/ArunSehrawat/Quantum_Approximate_Optimization_Algorithm_for_Quadratic_Unconstrained_Binary_Optimization_PyTorch/assets/99533657/917b4b61-84aa-4a22-8a71-b79c71d632ee)
+
+
+
 
 
 [1] [E. Farhi, J. Goldstone, and S. Gutmann, A Quantum Approximate Optimization Algorithm](https://doi.org/10.48550/arXiv.1411.4028)
